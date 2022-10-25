@@ -1,6 +1,6 @@
 # SDORP: SDN based Opportunistic Routing for Asynchronous Wireless Sensor Networks
 To simulate SDORP, a new platform with a graphical user interface that provides details of simulations runs with other important pieces of information is developed. The toolkit is developed using C# and WPF in .net 4.5.
-Developed by Muhammad Umar Farooq Qaisar et al. (muhammad@mail.ustc.edu.cn)
+Developed by Muhammad Umar Farooq Qaisar et al. (muhammad@mail.ustc.edu.cn). 
 If you decided to use this simulator for academic issues, please support us by citing any of the following works:
 
 [1] M. U. F. Qaisar, X. Wang, A. Hawbani, L. Zhao, A. Y. Al-Dubai and O. Busaileh, "SDORP: SDN based Opportunistic Routing for Asynchronous Wireless Sensor Networks," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2022.3158695.
